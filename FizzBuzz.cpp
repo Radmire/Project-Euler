@@ -19,7 +19,6 @@ int main(){
     }
 
 	cout << sum;
-	cin >> sum;
 
     return 0;
 }
